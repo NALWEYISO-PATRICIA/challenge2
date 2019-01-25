@@ -1,0 +1,17 @@
+#header{
+    background-color:skyblue;
+    height:100px;
+    width:100%;
+    text-align: center;
+    padding:10px;
+
+
+}
+#container{
+    background-color:orchid;
+    padding:100px;
+}
+#surveyform{
+    background-color:white;
+    text-align: center;
+}
